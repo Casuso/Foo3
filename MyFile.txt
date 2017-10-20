@@ -1,1 +1,3 @@
 change 1 in myfile in branch feature2
+
+change 2 in myfile in branch feature2 in local repo
