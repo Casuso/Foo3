@@ -1,1 +1,2 @@
 change 1 in feature1
+change 2 in myfile in feature2 in origin
