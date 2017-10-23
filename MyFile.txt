@@ -2,3 +2,4 @@ change 1 in myfile in feature4 in origin
 change 2 in myfile in feature4 in origin
 change 3 in myfile in feature4 in origin
 change 4 in myfile in feature4 in origin
+change 5 in myfile in feature4 in origin
