@@ -1,3 +1,5 @@
 change 1 in myfile in feature3 in origin
 
 change 1 in myfile in feature3 in local
+
+change 2 in myfile in feature3 in local
